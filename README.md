@@ -27,5 +27,3 @@
 </tr>
 </table><br>
 <img src="1.jpg"></img>
-<img src="II_2.jpg"></img>
-<img src="II_3.jpg" style="display:block; margin:auto;" ></img>
